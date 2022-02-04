@@ -3,6 +3,7 @@ public class Runner {
         System.out.println("Hello World!");
         Thing thing = new Thing(8);
         System.out.println(thing.getNum());
+        System.out.println("Hello World!");
     }
 }
 
